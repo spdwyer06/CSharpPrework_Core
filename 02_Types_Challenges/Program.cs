@@ -11,7 +11,7 @@ string myName = "Sean";
 bool isAlive;
 bool isMale = true;
 
-float someNum;
+float floatNum;
 float anotherNum = 1.02f;
 
 double latitude;
