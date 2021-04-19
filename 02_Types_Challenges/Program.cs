@@ -27,9 +27,9 @@ ulong maxValue = 18446744073709551615;
 
 /* SILVER */ 
 
-string firstName = "Sean";
-string lastName = "Dwyer";
-string fullName = firstName + ' ' + lastName;
+string myFirstName = "Sean";
+string myLastName = "Dwyer";
+string myFullName = myFirstName + ' ' + myLastName;
 
 string words = "This is a string";
 int someNum = 100;
